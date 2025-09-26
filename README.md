@@ -8,9 +8,9 @@ Open to contribute for anyone who is willing to put the time and efforts in. Eve
 
 - Very much RnD, lets do some research on solutions which may already exist instead of re-inventing the wheel. Identify what worked, didnt worked, take the good, leave the bad and draft a initial document of the Cardano Technical Fellowship. Also define next steps and whatever may follow the ideation.
 
-  Ideation doc at: https://github.com/MeshJS/cardano-fellowship/blob/main/documents/ideation.md
+Ideation doc at: https://github.com/MeshJS/cardano-fellowship/blob/main/documents/ideation.md
 
-
+Discussions at: https://github.com/MeshJS/cardano-fellowship/discussions/1
 
  ## Potential rough roadmap:
    - create concept doc
